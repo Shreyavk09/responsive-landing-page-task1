@@ -28,7 +28,7 @@ The page layout adjusts smoothly for all screen sizes using **Flexbox** and **me
 ---
 
 ## 📸 Preview
-![Landing Page Screenshot](https://cdn.pixabay.com/photo/2020/07/08/08/04/sunset-5383043_1280.jpg)
+![Landing Page Screenshot](task1.png)
 
 ---
 
@@ -36,3 +36,4 @@ The page layout adjusts smoothly for all screen sizes using **Flexbox** and **me
 1. Clone this repository:
    ```bash
    git clone https://github.com/Shreyavk09/responsive-landing-page-task1.git
+
