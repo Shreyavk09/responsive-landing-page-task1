@@ -28,7 +28,7 @@ The page layout adjusts smoothly for all screen sizes using **Flexbox** and **me
 ---
 
 ## 📸 Preview
-![Landing Page Screenshot](D:\Elevate lab internship\task1-Responsive Landing Page\screenshot\task1.png)
+![Landing Page Screenshot](./screenshot\task1.png)
 
 ---
 
@@ -36,5 +36,6 @@ The page layout adjusts smoothly for all screen sizes using **Flexbox** and **me
 1. Clone this repository:
    ```bash
    git clone https://github.com/Shreyavk09/responsive-landing-page-task1.git
+
 
 
